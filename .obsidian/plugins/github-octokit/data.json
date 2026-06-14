@@ -1,0 +1,43 @@
+{
+  "auth": {
+    "token": "",
+    "tokenValidated": true,
+    "username": "beluska1997-alt"
+  },
+  "repo": {
+    "owner": "beluska1997-alt",
+    "name": "my-obsidian-vault",
+    "branch": "master",
+    "defaultBranch": "main",
+    "isPrivate": true,
+    "url": "https://github.com/beluska1997-alt/my-obsidian-vault"
+  },
+  "subfolderPath": "",
+  "syncSchedule": {
+    "syncOnSave": true,
+    "syncOnInterval": false,
+    "syncOnStartup": true,
+    "intervalMinutes": 30
+  },
+  "commitConfig": {
+    "messageTemplate": "Vault sync: {date}",
+    "includeTimestamp": true,
+    "includeFileCount": true
+  },
+  "syncConfiguration": true,
+  "defaultConflictResolution": "manual",
+  "additionalRepos": [],
+  "ignorePatterns": [
+    ".git/**",
+    ".gitignore"
+  ],
+  "showStatusBar": true,
+  "showNotifications": true,
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "persistToFile": false,
+    "logFilePath": ".github-sync.log",
+    "maxEntries": 1000
+  }
+}
