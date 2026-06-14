@@ -1,0 +1,15 @@
+{
+	"nodes": [
+		{"id": "1", "x": -300, "y": -150, "width": 240, "height": 140, "type": "text", "text": "# Аналоговое (XX в.)\n- ELIZA (чат-бот)\n- AARON (робот-художник)\n- Тэнгли (машины-убийцы себя)"},
+		{"id": "2", "x": 300, "y": -150, "width": 240, "height": 140, "type": "text", "text": "# Цифровой кошмар\n- Кэндзи Сиратори (книги-глюки)\n- Кааи Юки (темный вокалоид)\n- Шарон Эппл (ИИ-террорист)"},
+		{"id": "3", "x": 0, "y": 100, "width": 240, "height": 140, "type": "text", "text": "# Виртуальные божества\n- nævis (SM, aespa)\n- Лили Чоу-Чоу (фильм 2001)\n- Вакако Каку (машинный голос)"},
+		{"id": "4", "x": 0, "y": -50, "width": 200, "height": 100, "type": "text", "text": "## Общее\nНе-человеческий субъект\nЯзык без эмпатии\nСинестезия сбоя\nЭффект зловещей долины"},
+		{"id": "5", "x": -300, "y": 100, "width": 240, "height": 140, "type": "text", "text": "# Иммерсивное искусство\n- teamLab (тактильный гипноз)\n- Тадао Андо (архитектура)\n- Тайский slow cinema"}
+	],
+	"edges": [
+		{"id": "e1", "fromNode": "1", "fromSide": "right", "toNode": "4", "toSide": "left"},
+		{"id": "e2", "fromNode": "2", "fromSide": "left", "toNode": "4", "toSide": "right"},
+		{"id": "e3", "fromNode": "3", "fromSide": "top", "toNode": "4", "toSide": "bottom"},
+		{"id": "e4", "fromNode": "1", "fromSide": "bottom", "toNode": "5", "toSide": "top"}
+	]
+}

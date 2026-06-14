@@ -1,0 +1,23 @@
+{
+	"nodes": [
+		{"id": "1", "x": -400, "y": -300, "width": 300, "height": 200, "type": "text", "text": "# Физические модификации\n- Татуировки и клеймение\n- Бинтование ног (цяо)\n- Калечащие наказания (Усин, цзайшэн чжэгэ)\n- Тунцзи (ртутные куклы)\n- Тиго (японский аналог)"},
+		{"id": "2", "x": -400, "y": 50, "width": 300, "height": 200, "type": "text", "text": "# Социальные иерархии\n- Продажа в рабство (Симинь)\n- Каста хинин (нелюди)\n- Мужские гаремы (Наньчун, Вакасю)\n- «Первый Нефрит», «опущенные»\n- Романы внутри гарема («Тайное сплетение ветвей»)"},
+		{"id": "3", "x": -400, "y": 400, "width": 300, "height": 200, "type": "text", "text": "# БДСМ и даосские практики\n- Афродизиаки (ртуть, опиум, мускус, жабьи яды)\n- Интерфеморальный секс\n- «Золотой дождь» и омовение ног\n- Групповые оргии («Союз Инь и Ян»)\n- Мужской сквирт (ретроградная эякуляция)"},
+		{"id": "4", "x": 400, "y": -300, "width": 300, "height": 200, "type": "text", "text": "# Классическая литература\n- Цзинь Пин Мэй (девайсы, БДСМ, смерть от афродизиака)\n- Жупутуань (пересадка плоти жеребца)\n- Ихара Сайкаку (Нансёку Окагами)\n- Танидзаки, Мисима, Рю Мураками"},
+		{"id": "5", "x": 400, "y": 50, "width": 300, "height": 200, "type": "text", "text": "# Китайские веб-новеллы\n- Tang Jiuqing (Qiang Jin Jiu, Nan Chan)\n- Priest (Silent Reading, Guardian)\n- Meng Xi Shi (Fourteenth Year, Peerless)\n- Meatbun (Yu Wu)\n- Мосян Тунсю (Mo Dao Zu Shi)"},
+		{"id": "6", "x": 400, "y": 400, "width": 300, "height": 200, "type": "text", "text": "# Аниме, игры, фильмы\n- Texhnolyze, Ergo Proxy, Psycho-Pass\n- No.6, Gungrave, Wolf’s Rain\n- Space Dandy, Golden Kamuy, Dorohedoro\n- Majestic, Orwell, MILGRAM\n- In the Mood for Love, The Handmaiden"},
+		{"id": "7", "x": 0, "y": -100, "width": 250, "height": 150, "type": "text", "text": "## Ключевые концепции\nСинестезия\nСмущение\nТотальный контроль\nДегуманизация\nЦундэрэ-химия\nГомосоциальность"},
+		{"id": "8", "x": 0, "y": 250, "width": 250, "height": 150, "type": "text", "text": "## Инструменты исследователя\nOSINT, Bellingcat\nGephi, Obsidian, Zotero\nNotebookLM, Google Labs\nARG, FMV, аналоговые мультимедиа"}
+	],
+	"edges": [
+		{"id": "e1", "fromNode": "1", "fromSide": "right", "toNode": "7", "toSide": "left"},
+		{"id": "e2", "fromNode": "2", "fromSide": "right", "toNode": "7", "toSide": "left"},
+		{"id": "e3", "fromNode": "3", "fromSide": "right", "toNode": "7", "toSide": "left"},
+		{"id": "e4", "fromNode": "7", "fromSide": "right", "toNode": "4", "toSide": "left"},
+		{"id": "e5", "fromNode": "7", "fromSide": "right", "toNode": "5", "toSide": "left"},
+		{"id": "e6", "fromNode": "7", "fromSide": "right", "toNode": "6", "toSide": "left"},
+		{"id": "e7", "fromNode": "4", "fromSide": "bottom", "toNode": "6", "toSide": "top"},
+		{"id": "e8", "fromNode": "5", "fromSide": "bottom", "toNode": "6", "toSide": "top"},
+		{"id": "e9", "fromNode": "8", "fromSide": "top", "toNode": "7", "toSide": "bottom"}
+	]
+}

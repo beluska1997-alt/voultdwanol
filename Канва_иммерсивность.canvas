@@ -1,0 +1,18 @@
+{
+	"nodes": [
+		{"id": "1", "x": 0, "y": -200, "width": 300, "height": 150, "type": "text", "text": "# ARG (Alternate Reality Games)\n- Majestic (звонки, факсы)\n- In Memoriam (CD-ROM + интернет)\n- I Love Bees (Halo 2 ARG)"},
+		{"id": "2", "x": 400, "y": -200, "width": 300, "height": 150, "type": "text", "text": "# Simulated OS\n- Orwell\n- Hypnospace Outlaw\n- Grey Hack / Hacknet\n- Welcome to the Game (DarkwebSTREAMER 2026)"},
+		{"id": "3", "x": 0, "y": 100, "width": 300, "height": 150, "type": "text", "text": "# FMV и интерактивное кино\n- The X-Files Game\n- Death Come True\n- Late Shift\n- Erica"},
+		{"id": "4", "x": 400, "y": 100, "width": 300, "height": 150, "type": "text", "text": "# Трансмедийные проекты\n- MILGRAM (YouTube + сайт + голосование)\n- Книга-игра «Дневник Франкенштейна»\n- Журнал Aspen (коробка с артефактами)"},
+		{"id": "5", "x": 200, "y": -50, "width": 200, "height": 100, "type": "text", "text": "## Эффект синестезии\nЗвуки, запахи, текстуры, гул, шорох, статика"},
+		{"id": "6", "x": -250, "y": 0, "width": 250, "height": 100, "type": "text", "text": "## Аналоговые предтечи\n- «Убийство в Майами» (1936)\n- Кассетные журналы\n- Радио-игры 1980-х"}
+	],
+	"edges": [
+		{"id": "e1", "fromNode": "1", "fromSide": "right", "toNode": "5", "toSide": "left"},
+		{"id": "e2", "fromNode": "2", "fromSide": "left", "toNode": "5", "toSide": "right"},
+		{"id": "e3", "fromNode": "3", "fromSide": "right", "toNode": "5", "toSide": "bottom"},
+		{"id": "e4", "fromNode": "4", "fromSide": "left", "toNode": "5", "toSide": "bottom"},
+		{"id": "e5", "fromNode": "6", "fromSide": "right", "toNode": "1", "toSide": "left"},
+		{"id": "e6", "fromNode": "6", "fromSide": "right", "toNode": "2", "toSide": "bottom"}
+	]
+}
