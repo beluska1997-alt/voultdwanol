@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"2","type":"text","text":"# Simulated OS\n- Orwell\n- Hypnospace Outlaw\n- Grey Hack / Hacknet\n- Welcome to the Game (DarkwebSTREAMER 2026)","x":400,"y":-280,"width":300,"height":230},
+		{"id":"4","type":"text","text":"# Трансмедийные проекты\n- MILGRAM (YouTube + сайт + голосование)\n- Книга-игра «Дневник Франкенштейна»\n- Журнал Aspen (коробка с артефактами)","x":400,"y":100,"width":300,"height":285},
+		{"id":"6","type":"text","text":"## Аналоговые предтечи\n- «Убийство в Майами» (1936)\n- Кассетные журналы\n- Радио-игры 1980-х","x":-560,"y":0,"width":250,"height":250},
+		{"id":"3","type":"text","text":"# FMV и интерактивное кино\n- The X-Files Game\n- Death Come True\n- Late Shift\n- Erica","x":-200,"y":250,"width":300,"height":270},
+		{"id":"5","type":"text","text":"## Эффект синестезии\nЗвуки, запахи, текстуры, гул, шорох, статика","x":100,"y":0,"width":250,"height":200},
+		{"id":"1","type":"text","text":"# ARG (Alternate Reality Games)\n- Majestic (звонки, факсы)\n- In Memoriam (CD-ROM + интернет)\n- I Love Bees (Halo 2 ARG)","x":-150,"y":-230,"width":300,"height":230}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"1","fromSide":"right","toNode":"5","toSide":"left"},
+		{"id":"e2","fromNode":"2","fromSide":"left","toNode":"5","toSide":"right"},
+		{"id":"e3","fromNode":"3","fromSide":"right","toNode":"5","toSide":"bottom"},
+		{"id":"e4","fromNode":"4","fromSide":"left","toNode":"5","toSide":"bottom"},
+		{"id":"e5","fromNode":"6","fromSide":"right","toNode":"1","toSide":"left"},
+		{"id":"e6","fromNode":"6","fromSide":"right","toNode":"2","toSide":"bottom"}
+	]
+}
