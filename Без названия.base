@@ -1,6 +1,3 @@
 views:
   - type: table
     name: Таблица
-    order:
-      - file.name
-      - file.tags
