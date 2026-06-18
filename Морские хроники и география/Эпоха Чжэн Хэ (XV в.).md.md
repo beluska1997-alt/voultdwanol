@@ -61,3 +61,19 @@
       
       
       1. **Экспедиции Чжэн Хэ** — [Вокруг света](https://www.vokrugsveta.ru/vs/article/6293/), [Moluch.ru](https://moluch.ru/conf/stud/archive/384/16172), [Ming Dynasty History](https://mingdynastyhistory.com/ming-treasure-ship-vs-santa-maria/), [Reddit (история флота)](https://www.reddit.com/r/history/comments/5n1p70/why_did_giant_maritime_fleets_like_those_of_zheng/).
+
+- **Китайское имя:** 郑和 (Zhèng Hé). Родился как **马三宝 (Mǎ Sānbǎo)** — «Три сокровища Ма». Получил фамилию **郑 (Zhèng)** от императора.
+    
+- **Японское чтение:** 鄭和 (ていわ / Teiwa). В японских источниках — **鄭和の遠征 (ていわのえんせい)** — «экспедиции Чжэн Хэ».
+    
+- **Ключевые термины:**
+    
+    - 下西洋 (xià xīyáng) — «плавание в Западный океан» (в Индийский океан).
+        
+    - 宝船 (bǎochuán) — «сокровищница-корабль».
+        
+- **Греческий:** _ναυτικός (nautikós)_ — мореходный. _ἀποικία_ — колония.
+    
+- **Латинский:** _classis_ — флот; _navigatio_ — мореплавание.
+    
+- **Исторический контекст:** С 1405 по 1433 гг. Чжэн Хэ совершил семь плаваний, достигнув Африки.
