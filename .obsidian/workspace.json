@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Судебная психиатрия и криминалистика (история).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Судебная психиатрия и криминалистика (история)"
             }
           },
           {
@@ -183,13 +184,11 @@
               "title": "copilot-chat-view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +208,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f6d70b2bca8f6d9d",
+  "active": "50b159ec904049a9",
   "lastOpenFiles": [
     "Монголы, турки и славяне.md",
     "Индия и моголы.md",
